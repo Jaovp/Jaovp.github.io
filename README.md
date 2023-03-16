@@ -1,3 +1,2 @@
 # Jaovp.github.io
-# João Victor Peterlini
-oooo
+João Victor Peterlini
